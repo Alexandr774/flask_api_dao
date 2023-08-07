@@ -1,0 +1,4 @@
+PWD_SALT = b'random_salt_string'
+PWD_ITERATIONS = 100_00
+JWT_SECRET = 's3cR$et'
+JWT_ALGORITHM = 'HS256'
